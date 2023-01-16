@@ -1,0 +1,14 @@
+ Two Types
+***************
+  1. Ansi Standard
+	1. Natural
+		1. Equi-join
+                2. Non-Join
+		3. Normal Join (inner Join)
+  2. Non Ansi Standard
+	1. Outer Joins
+		1. Left
+                2. right
+                3. Full Outer Joins
+        2. self joins
+        3. cartesian Product (cross Join)

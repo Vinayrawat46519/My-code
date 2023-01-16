@@ -1,0 +1,227 @@
+Introduction to Mongodb:-
+*****************************
+
+online compiler : 
+https://www.jdoodle.com/online-mongodb-terminal/
+
+online/offline =>
+oracle
+mysql 
+mongodb => NoSQL database.
+
+1. it is mongodb not mangodb
+it is mongodb 
+Front Where mongodb name came from:-
+mongodb name : it conveys Huge and very very Large Data.
+
+it is a product, mongo community.
+mongo company not only it makes databases, but other cloud 
+software.
+
+scope of mongodb:-
+*******************
+What is full stack web-developement
+stack : collection of Langauges, or technologies required by any Application.
+is called full stack.
+Any person who knows all the technologies related to web-developement
+is called full stack web-developer.
+
+This stack is langauge dependent:-
+1. Python Full stack
+2. Java Full Stack
+3. .Net Full Stack
+4. PHP Full Stack
+5. JS Fulls stack
+
+Front End Technology : Common
+1. Html/css/Js/Bootstrap/Tailwind/JQuery
+
+Database End Technology
+1. Relational Database (Tables Rows and Columns). => SQL
+	
+	1. mysql,oracle, SQL Server, sqlite, MS SQL...., Redshift SQL.
+	
+2. Document Database (Object Database | Unstructed Database | No Schema Database or ArrayObject Database or JSON Database or NOSQL database, BSON Database) => SQL not allowed.
+  1. mongodb
+  2. counchDB
+  3. RedisDB
+  4. memechachedb
+  5. Casendra
+  6. Apache Casino
+  7. DynamoDB
+  ....
+  ....
+  Cloud Paid Database
+  Note :: 
+  
+  Backend Technology
+  1. Python Full stack + Django/Fask + DRF (Django Rest Framework)
+  2. Java (core Java|Advanced Java[Jsp| Servelet|jdbc | struts | sprint | sprint Boot | microservices | maven | log4J])
+  3. .Net Stack (C#, Asp.net, ADO.net , MVC, Blazor, MVC + .netCore, Entity Framework)
+  4. PHP (core PHP, Advance PHP (PHPCli,PHPWeb,MVC, MVC Framework [codeIgnitor and Laravel,wordpress,opencart,cms(shopify or woocommerce)]))
+  
+  5. Js Technology
+  *********************
+	 1. MERN Stack
+	 2. MEAN Stack
+	 3. MEVN Stack
+	 
+	 M => Mongodb => NOSQL database.
+	 X => where A,R,V 
+				A => Angular-Js/Angular : Front End Application.
+				R => React Js
+				V => VueJs
+				
+	E => Express Js  => framework of NodeJs, Backend Service Codes (API)
+	N => Node Js => It provides Service Side Runtime Environment for server.
+	
+	Mongodb is built on, JS technologies.
+	Using Js technologies Later on you can upgrade in Mobile App Developement
+	
+	React ---mobile--> React Native.
+	Angular ---mobile---> Ioinic or PhoneGap (Typescript).
+	VueJs ---mobile----> Native-Script.
+	
+	These all are used, for mobile App Developement.
+	R/A/V => Dynamic FrontEnd App (SPA | single page Application)
+	
+	SPA => core Langauge + Core Framework	
+	***************************************
+	        ReactJs + NextJs
+	        
+			Angular + NestJs
+			
+			VueJs + NuxtJS.
+			
+	
+			
+    Products of mongodb:-
+	***************************
+	1. locally available
+		1. mongodb community server : Mongodb locally System, creates server.
+			cmd => mongod => Run keep active mode.
+			
+		2. mongodb shell : client terminal, you can perform
+		all database operation by connecting to mongodb server
+			1. insert,update,select,delete....
+			same as mysql terminal
+			
+			test> REPL.
+			mysql> REPL.
+			
+		3. mongodb GUI Compass : its same as mongodb shell, but is graphics based same like phpmyadmin.
+		
+		   phpmyadmin GUI 
+		   compass GUI
+		
+		4. mongodb db cli tools : these are externally installed,
+		for performing database export and import, and local backup.
+		
+		
+	2. cloud Based 
+		1. Cluster : complete database on cloud, you can also 
+		get remote connection from local system.
+		commerecially Paid
+		
+		2. Atlas : free version (1 GB Space for users free cloud)
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

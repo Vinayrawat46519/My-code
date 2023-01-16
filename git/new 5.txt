@@ -1,0 +1,26 @@
+Insert into tablename values('','','','');
+
+Insert into values('','','','');
+
+tablename : college
+Insert into college values('','','','');
+
+insert college values('','','','');
+
+A : Atomicity
+C : consistency
+I : Isolated
+D : Durability
+Atoms consit of insolated Duracel.
+
+
+
+
+
+
+
+
+
+
+
+
